@@ -1,4 +1,4 @@
-### 1. Calculator
+### Calculator
 A simple web-based calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 **Features:**
